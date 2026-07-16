@@ -1,5 +1,7 @@
 ########################################
+
 PYTHON INVENTORY PROJECT - Created by JB
+
 ########################################
 
 DESCRIPTION:
